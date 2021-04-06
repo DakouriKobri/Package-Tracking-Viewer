@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      <List />
+      {/* <List /> */}
       <TrackingSummary />
       <Footer />
     </div>
